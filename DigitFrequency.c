@@ -1,3 +1,4 @@
+//Given a string, s, consisting of alphabets and digits, find the frequency of each digit in the given string.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
